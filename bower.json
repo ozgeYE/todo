@@ -1,0 +1,16 @@
+{
+  "name": "app-name",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "bootstrap-sass": "^3.3.7"
+  },
+  "private": true
+}
